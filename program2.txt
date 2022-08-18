@@ -1,0 +1,3 @@
+welcome to git repositry 
+
+makes changes to your file and store it into a global repository
